@@ -1,3 +1,5 @@
+https://github.com/JorgeRomojaro11/CuadernoEjerciciosBaseDatos.git
+
 # Solución a los Ejercicios
 
 ## 1. Cálculo del ancho de banda y medio guiado recomendado
